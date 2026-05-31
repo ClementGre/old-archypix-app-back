@@ -2,6 +2,7 @@
 name = "archypix_app_back"
 version = "0.1.0"
 edition = "2021"
+
 [dependencies]
 automod = "1.0.15"
 async-trait = "0.1.88"

@@ -1,3 +1,6 @@
+> 🚧 Discontinued — This project has been scrapped and rewritten from the ground up as [Archypix](https://github.com/ClementGre/Archypix), a federated,
+> self-hostable photo library. Please refer to that repository instead.
+
 # Archypix App Back
 
 The backend of the Archypix app.
